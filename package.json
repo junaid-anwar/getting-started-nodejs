@@ -1,0 +1,24 @@
+{
+  "name": "getting-started-nodejs",
+  "version": "1.0.0",
+  "description": "Beginners Project",
+  "main": "express-server.js",
+  "dependencies": {
+    "express": "^4.14.1",
+    "express-favicon": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junaid-anwar/getting-started-nodejs.git"
+  },
+  "author": "Junaid Anwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junaid-anwar/getting-started-nodejs/issues"
+  },
+  "homepage": "https://github.com/junaid-anwar/getting-started-nodejs#readme"
+}
